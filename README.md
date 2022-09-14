@@ -12,9 +12,9 @@ Assignment Instructions:
   - Created DB called Project1 using Public schema
   - Load a data file from the MSU CS server
   - Have the following API routes
-    - findAll
-    - findOne
-    - findClosest
+    - getAll
+    - getOne
+    - getClosest
 
 Assignment Description:
 
