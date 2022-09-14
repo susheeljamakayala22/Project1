@@ -1,7 +1,10 @@
 # Project1
 Name: 		Susheel Jamakayala
+
 Course:		5443 Spatial Databases
+
 Semester:	Fall, 2022	
+
 Assignment:	Program 1 - Simple API using python and PostgreSQL
 
 
